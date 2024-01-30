@@ -24,4 +24,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Be12q&theme=onedark)](https://github.com/poricf/github-profile-trophy)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poricf&theme=vue-dark)](https://github.com/Be12q/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Be12q&theme=vue-dark)](https://github.com/Be12q/github-readme-stats)
