@@ -21,7 +21,7 @@
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=azure,bash,c,cpp,eclipse,linux,mysql,py,vim,vscode,java)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=poricf&theme=onedark)](https://github.com/poricf/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Be12q&theme=onedark)](https://github.com/poricf/github-profile-trophy)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poricf&theme=vue-dark)](https://github.com/Be12q/github-readme-stats)
